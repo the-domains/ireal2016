@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5
+  lightness: 1
+  brandStrength: 0.912766
+  brandColors:
+    - '#FFFFFF'
+    - '#04977B'
+    - '#062134'
+    - '#FFCC01'
+    - '#A0AAB0'
+  rhythmicContrast: 1
+typography_spectrum: 0.4957447
+name: IReal2016
